@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fylia/static/css/main.69249204.css",
+    "main.css": "/fylia/static/css/main.6ab5a80e.css",
     "main.js": "/fylia/static/js/main.d4f3c184.js",
     "static/media/connectedalbum.png": "/fylia/static/media/connectedalbum.80a49e7076863f43c829.png",
     "static/media/interactionTel.png": "/fylia/static/media/interactionTel.0ff28af5cca53099e7b5.png",
@@ -16,11 +16,11 @@
     "static/media/pictobebefylia.png": "/fylia/static/media/pictobebefylia.02a34bb0ccb93da62593.png",
     "static/media/pictocalendrierfylia.png": "/fylia/static/media/pictocalendrierfylia.5cf2752016ef22734dad.png",
     "index.html": "/fylia/index.html",
-    "main.69249204.css.map": "/fylia/static/css/main.69249204.css.map",
+    "main.6ab5a80e.css.map": "/fylia/static/css/main.6ab5a80e.css.map",
     "main.d4f3c184.js.map": "/fylia/static/js/main.d4f3c184.js.map"
   },
   "entrypoints": [
-    "static/css/main.69249204.css",
+    "static/css/main.6ab5a80e.css",
     "static/js/main.d4f3c184.js"
   ]
 }
