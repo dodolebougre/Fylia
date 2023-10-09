@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/fylia/static/css/main.4a41085b.css",
-    "main.js": "/fylia/static/js/main.9e9489f5.js",
-    "static/media/connectedalbum.png": "/fylia/static/media/connectedalbum.80a49e7076863f43c829.png",
-    "static/media/interactionTel.png": "/fylia/static/media/interactionTel.0ff28af5cca53099e7b5.png",
-    "static/media/home-banner-background.png": "/fylia/static/media/home-banner-background.b35b91e356cdc3320068.png",
-    "static/media/gaindetempsassuré.png": "/fylia/static/media/gaindetempsassuré.a72865ac4075694c1eef.png",
-    "static/media/espacefamilialesécurisé.png": "/fylia/static/media/espacefamilialesécurisé.027acf0087b69591a115.png",
-    "static/media/telfeedfylia.png": "/fylia/static/media/telfeedfylia.0f2e741405a605268e1f.png",
-    "static/media/intercationsauthentiques.png": "/fylia/static/media/intercationsauthentiques.4765d9dd7fe46d993b7c.png",
-    "static/media/solution-banner-background.png": "/fylia/static/media/solution-banner-background.dc7399aa3cd83a4802d5.png",
-    "static/media/Logo.png": "/fylia/static/media/Logo.9e66551604729716d479.png",
-    "static/media/contact-banner-background.png": "/fylia/static/media/contact-banner-background.3d17e5913a663bf751ab.png",
-    "static/media/pictocerveaufylia.png": "/fylia/static/media/pictocerveaufylia.378861d7c2fecd67ba28.png",
-    "static/media/pictobebefylia.png": "/fylia/static/media/pictobebefylia.02a34bb0ccb93da62593.png",
-    "static/media/pictocalendrierfylia.png": "/fylia/static/media/pictocalendrierfylia.5cf2752016ef22734dad.png",
-    "index.html": "/fylia/index.html",
-    "main.4a41085b.css.map": "/fylia/static/css/main.4a41085b.css.map",
-    "main.9e9489f5.js.map": "/fylia/static/js/main.9e9489f5.js.map"
+    "main.css": "/static/css/main.1298804b.css",
+    "main.js": "/static/js/main.ec2eaaf7.js",
+    "static/media/connectedalbum.png": "/static/media/connectedalbum.80a49e7076863f43c829.png",
+    "static/media/interactionTel.png": "/static/media/interactionTel.0ff28af5cca53099e7b5.png",
+    "static/media/home-banner-background.png": "/static/media/home-banner-background.b35b91e356cdc3320068.png",
+    "static/media/gaindetempsassuré.png": "/static/media/gaindetempsassuré.a72865ac4075694c1eef.png",
+    "static/media/espacefamilialesécurisé.png": "/static/media/espacefamilialesécurisé.027acf0087b69591a115.png",
+    "static/media/telfeedfylia.png": "/static/media/telfeedfylia.0f2e741405a605268e1f.png",
+    "static/media/intercationsauthentiques.png": "/static/media/intercationsauthentiques.4765d9dd7fe46d993b7c.png",
+    "static/media/solution-banner-background.png": "/static/media/solution-banner-background.dc7399aa3cd83a4802d5.png",
+    "static/media/Logo.png": "/static/media/Logo.9e66551604729716d479.png",
+    "static/media/contact-banner-background.png": "/static/media/contact-banner-background.3d17e5913a663bf751ab.png",
+    "static/media/pictocerveaufylia.png": "/static/media/pictocerveaufylia.378861d7c2fecd67ba28.png",
+    "static/media/pictobebefylia.png": "/static/media/pictobebefylia.02a34bb0ccb93da62593.png",
+    "static/media/pictocalendrierfylia.png": "/static/media/pictocalendrierfylia.5cf2752016ef22734dad.png",
+    "index.html": "/index.html",
+    "main.1298804b.css.map": "/static/css/main.1298804b.css.map",
+    "main.ec2eaaf7.js.map": "/static/js/main.ec2eaaf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a41085b.css",
-    "static/js/main.9e9489f5.js"
+    "static/css/main.1298804b.css",
+    "static/js/main.ec2eaaf7.js"
   ]
 }
