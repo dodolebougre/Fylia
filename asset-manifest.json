@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1298804b.css",
-    "main.js": "/static/js/main.3d38639c.js",
+    "main.css": "/static/css/main.e94bc31d.css",
+    "main.js": "/static/js/main.52ad563b.js",
     "static/media/connectedalbum.png": "/static/media/connectedalbum.80a49e7076863f43c829.png",
     "static/media/interactionTel.png": "/static/media/interactionTel.0ff28af5cca53099e7b5.png",
     "static/media/home-banner-background.png": "/static/media/home-banner-background.b35b91e356cdc3320068.png",
@@ -16,11 +16,11 @@
     "static/media/pictobebefylia.png": "/static/media/pictobebefylia.02a34bb0ccb93da62593.png",
     "static/media/pictocalendrierfylia.png": "/static/media/pictocalendrierfylia.5cf2752016ef22734dad.png",
     "index.html": "/index.html",
-    "main.1298804b.css.map": "/static/css/main.1298804b.css.map",
-    "main.3d38639c.js.map": "/static/js/main.3d38639c.js.map"
+    "main.e94bc31d.css.map": "/static/css/main.e94bc31d.css.map",
+    "main.52ad563b.js.map": "/static/js/main.52ad563b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1298804b.css",
-    "static/js/main.3d38639c.js"
+    "static/css/main.e94bc31d.css",
+    "static/js/main.52ad563b.js"
   ]
 }
